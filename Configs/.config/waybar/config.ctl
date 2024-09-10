@@ -1,1 +1,1 @@
-1|28|bottom|( cpu memory custom/cpuinfo ) ( idle_inhibitor clock )|( hyprland/workspaces hyprland/window )|( backlight network pulseaudio pulseaudio#microphone custom/updates custom/keybindhint ) ( privacy tray battery ) ( custom/wbar custom/cliphist custom/power )
+1|38|top|( cpu memory custom/cpuinfo ) ( idle_inhibitor clock )|( hyprland/workspaces hyprland/window )|( backlight network pulseaudio pulseaudio#microphone custom/updates custom/keybindhint ) ( privacy tray battery ) ( custom/wbar custom/cliphist custom/power )
