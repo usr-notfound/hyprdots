@@ -1,1 +1,2 @@
 1|38|top|( custom/wbar custom/cliphist custom/keybindhint ) ( hyprland/workspaces hyprland/window )|( idle_inhibitor clock )|( cpu memory custom/cpuinfo network ) ( custom/updates pulseaudio#microphone pulseaudio backlight battery custom/power )
+0|31|bottom|( custom/power custom/cliphist custom/wbar custom/theme custom/wallchange ) ( wlr/taskbar custom/spotify ) |( idle_inhibitor clock )|( privacy tray battery ) ( backlight network pulseaudio pulseaudio#microphone custom/notifications custom/keybindhint )
